@@ -35,7 +35,7 @@
       <file leaf-file-name="routes.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="422">
+            <state relative-caret-position="720">
               <caret line="39" column="41" selection-start-line="39" selection-start-column="28" selection-end-line="39" selection-end-column="41" />
               <folding />
             </state>
@@ -66,7 +66,7 @@
       <file leaf-file-name="Country.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Country.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="745">
+            <state relative-caret-position="792">
               <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
               <folding>
                 <element signature="e#40#68#0#PHP" expanded="true" />
@@ -139,16 +139,16 @@
       <file leaf-file-name="City.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/Http/Controllers/City.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="68" column="68" selection-start-line="68" selection-start-column="68" selection-end-line="68" selection-end-column="68" />
+            <state relative-caret-position="480">
+              <caret line="74" column="3" selection-start-line="74" selection-start-column="3" selection-end-line="74" selection-end-column="3" />
               <folding>
                 <element signature="e#39#49#0#PHP" expanded="true" />
-                <marker date="1477407290800" expanded="true" signature="358:396" ph="SELECT * FRO... entities" />
-                <marker date="1477407290800" expanded="true" signature="486:562" ph="SELECT DISTI... " />
-                <marker date="1477407290800" expanded="true" signature="652:712" ph="SELECT outco... addData" />
-                <marker date="1477407290800" expanded="true" signature="803:1667" ph="SELECT DISTI... addData_items" />
-                <marker date="1477407290800" expanded="true" signature="1886:2714" ph="SELECT subca... subcat" />
-                <marker date="1477407290800" expanded="true" signature="5609:6445" ph="SELECT subca... subcat" />
+                <marker date="1477464636246" expanded="true" signature="358:396" ph="SELECT * FRO... entities" />
+                <marker date="1477464636246" expanded="true" signature="486:562" ph="SELECT DISTI... " />
+                <marker date="1477464636246" expanded="true" signature="652:712" ph="SELECT outco... addData" />
+                <marker date="1477464636246" expanded="true" signature="803:1667" ph="SELECT DISTI... addData_items" />
+                <marker date="1477464636246" expanded="true" signature="1886:2714" ph="SELECT subca... subcat" />
+                <marker date="1477464636246" expanded="true" signature="5612:6448" ph="SELECT subca... subcat" />
               </folding>
             </state>
           </provider>
@@ -261,7 +261,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -368,7 +368,7 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -524,11 +524,12 @@
       <workItem from="1477304412706" duration="819000" />
       <workItem from="1477401589832" duration="12000" />
       <workItem from="1477402139020" duration="4898000" />
+      <workItem from="1477464622382" duration="16000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="339916000" />
+    <option name="totallyTimeSpent" value="339932000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
@@ -540,7 +541,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32898173" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20875" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16830467" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16830467" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -966,7 +967,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Country.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="745">
+        <state relative-caret-position="792">
           <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
           <folding>
             <element signature="e#40#68#0#PHP" expanded="true" />
@@ -985,7 +986,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="422">
+        <state relative-caret-position="720">
           <caret line="39" column="41" selection-start-line="39" selection-start-column="28" selection-end-line="39" selection-end-column="41" />
           <folding />
         </state>
@@ -993,16 +994,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Http/Controllers/City.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="68" column="68" selection-start-line="68" selection-start-column="68" selection-end-line="68" selection-end-column="68" />
+        <state relative-caret-position="480">
+          <caret line="74" column="3" selection-start-line="74" selection-start-column="3" selection-end-line="74" selection-end-column="3" />
           <folding>
             <element signature="e#39#49#0#PHP" expanded="true" />
-            <marker date="1477407290800" expanded="true" signature="358:396" ph="SELECT * FRO... entities" />
-            <marker date="1477407290800" expanded="true" signature="486:562" ph="SELECT DISTI... " />
-            <marker date="1477407290800" expanded="true" signature="652:712" ph="SELECT outco... addData" />
-            <marker date="1477407290800" expanded="true" signature="803:1667" ph="SELECT DISTI... addData_items" />
-            <marker date="1477407290800" expanded="true" signature="1886:2714" ph="SELECT subca... subcat" />
-            <marker date="1477407290800" expanded="true" signature="5609:6445" ph="SELECT subca... subcat" />
+            <marker date="1477464636246" expanded="true" signature="358:396" ph="SELECT * FRO... entities" />
+            <marker date="1477464636246" expanded="true" signature="486:562" ph="SELECT DISTI... " />
+            <marker date="1477464636246" expanded="true" signature="652:712" ph="SELECT outco... addData" />
+            <marker date="1477464636246" expanded="true" signature="803:1667" ph="SELECT DISTI... addData_items" />
+            <marker date="1477464636246" expanded="true" signature="1886:2714" ph="SELECT subca... subcat" />
+            <marker date="1477464636246" expanded="true" signature="5612:6448" ph="SELECT subca... subcat" />
           </folding>
         </state>
       </provider>
