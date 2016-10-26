@@ -1,0 +1,7 @@
+Ajax Comment System - Laravel 1.2.0
+
+Release Notes
+http://docs.hazzardweb.com/ajax-comment-system-laravel/master/changelog
+
+Upgrade Guide
+http://docs.hazzardweb.com/ajax-comment-system-laravel/master/upgrade

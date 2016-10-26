@@ -1,0 +1,8 @@
+header > section.sub-header > nav > ul.main-menu > li > a, header > section.sub-header > nav > ul.main-menu > li > ul > li > a, main section.innerPage div.header div.wrapper h1{
+	font-family: "DejaVuSansCondensed-book";
+}
+
+
+.comparetable span.y1, span.y2{
+  font-family: "DejaVuSansCondensed-Bold";
+}

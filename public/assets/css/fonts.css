@@ -1,0 +1,30 @@
+@font-face{
+	font-family: "BPG Nino Mtavruli";
+	src: url("../fonts/bpg_nino_mtavruli_normal.otf");
+}
+
+@font-face{
+	font-family: "BPG Phone Sans";
+	src: url("../fonts/bpg_phone_sans_0.ttf");
+}
+
+@font-face{
+	font-family: "BPG Ingiri Arial 2008";
+	src: url("../fonts/bpg_ingiri_arial_2.ttf");
+}
+
+
+@font-face{
+	font-family: "DejaVuSansCondensed-Bold";
+	src: url("../fonts/DejaVuSansCondensed-Bold.ttf");
+}
+
+@font-face{
+	font-family: "DejaVuSansCondensed-book";
+	src: url("../fonts/DejaVuSansCondensed.ttf");
+}
+
+@font-face{
+	font-family: "Ebrima";
+	src: url("../fonts/ebrima.ttf");
+}
